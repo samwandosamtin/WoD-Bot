@@ -1,6 +1,14 @@
 # WoD-Bot
 War of dragons bot which unbannable, undetectable, easy to use. This bot do not eject any code or do not collect any sensitive data. 
 
+Satın Alım:
+Minimum 1 haftalık satın alabilir, maksimum süre sınırsızdır. 1 lisans 1 bilgisayar için kullanılır, paylaşılmaz. Format atarsanız gitmez. Satın alındıktan sonra destek alabilirsiniz.
+Haftalık 7 dolar
+Aylık ise 20 dolar fiyatı mevcut.
+Ödeme bilgileri için Telagram @WoDBotTR
+
+
+
 Başlatma:
 Dosyayı çalıştırdığınızda, bot otomatik olarak açılacak ve ilk adım olarak cihazınızın benzersiz kodunu (hash) ekranda gösterecektir. Bu kodu lisans sağlayıcınıza iletmeniz gerekebilir.
 
