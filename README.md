@@ -71,3 +71,5 @@ Eğer combat sırasında HP veya MP değerleriniz beklenmedik şekilde okunuyors
 Bildirimler:
 E-posta bildirimi önemli durumlar için gönderilecektir. Girdiğiniz e-posta adresini doğru girdiğinizden emin olun.
 
+[![IMG-3296.png](https://i.postimg.cc/BbSY4sFP/IMG-3296.png)](https://postimg.cc/34qCFsn3)
+
